@@ -1,0 +1,14 @@
+﻿  Enemy.cpp
+  GameObject.cpp
+  Player.cpp
+  Source.cpp
+d:\users\willi\documents\github\towering-game\project1\source.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\users\willi\documents\github\towering-game\project1\source.cpp(88): warning C4018: '<=': signed/unsigned mismatch
+d:\users\willi\documents\github\towering-game\project1\source.cpp(143): warning C4018: '<=': signed/unsigned mismatch
+  Tower.cpp
+  Generating code
+  307 of 312 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> D:\Users\willi\Documents\GitHub\Towering-Game\Release\Project1.exe
